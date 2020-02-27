@@ -1,0 +1,11 @@
+E:\大作业\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\caculator.exe
+E:\大作业\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\caculator.deps.json
+E:\大作业\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\caculator.runtimeconfig.json
+E:\大作业\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\caculator.runtimeconfig.dev.json
+E:\大作业\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\caculator.dll
+E:\大作业\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\caculator.pdb
+E:\大作业\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\caculator.AssemblyInfoInputs.cache
+E:\大作业\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\caculator.AssemblyInfo.cs
+E:\大作业\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\caculator.dll
+E:\大作业\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\caculator.pdb
+E:\大作业\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\caculator.csprojAssemblyReference.cache

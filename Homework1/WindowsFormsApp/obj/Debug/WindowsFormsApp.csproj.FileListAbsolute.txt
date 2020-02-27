@@ -1,0 +1,9 @@
+E:\大作业\ConsoleApp1\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\大作业\ConsoleApp1\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\大作业\ConsoleApp1\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\大作业\ConsoleApp1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+E:\大作业\ConsoleApp1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\大作业\ConsoleApp1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\大作业\ConsoleApp1\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\大作业\ConsoleApp1\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+E:\大作业\ConsoleApp1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
