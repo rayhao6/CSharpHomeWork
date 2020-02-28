@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work1\\work1.csproj": {}
+    "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work2\\work2.csproj": {}
   },
   "projects": {
-    "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work1\\work1.csproj": {
+    "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work2\\work2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work1\\work1.csproj",
-        "projectName": "work1",
-        "projectPath": "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work1\\work1.csproj",
+        "projectUniqueName": "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work2\\work2.csproj",
+        "projectName": "work2",
+        "projectPath": "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work2\\work2.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work1\\obj\\",
+        "outputPath": "E:\\Git\\learngit\\CSharpHomeWork\\Homework2\\ConsoleApp1\\work2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

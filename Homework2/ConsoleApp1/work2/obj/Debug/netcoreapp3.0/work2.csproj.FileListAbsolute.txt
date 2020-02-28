@@ -1,0 +1,10 @@
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\bin\Debug\netcoreapp3.0\work2.exe
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\bin\Debug\netcoreapp3.0\work2.deps.json
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\bin\Debug\netcoreapp3.0\work2.runtimeconfig.json
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\bin\Debug\netcoreapp3.0\work2.runtimeconfig.dev.json
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\bin\Debug\netcoreapp3.0\work2.dll
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\bin\Debug\netcoreapp3.0\work2.pdb
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\obj\Debug\netcoreapp3.0\work2.AssemblyInfoInputs.cache
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\obj\Debug\netcoreapp3.0\work2.AssemblyInfo.cs
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\obj\Debug\netcoreapp3.0\work2.dll
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work2\obj\Debug\netcoreapp3.0\work2.pdb

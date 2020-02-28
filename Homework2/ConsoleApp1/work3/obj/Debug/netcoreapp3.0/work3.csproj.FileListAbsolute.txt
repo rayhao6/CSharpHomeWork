@@ -9,3 +9,14 @@ E:\C#work\work2\ConsoleApp1\work3\bin\Debug\netcoreapp3.0\work3.dll
 E:\C#work\work2\ConsoleApp1\work3\bin\Debug\netcoreapp3.0\work3.pdb
 E:\C#work\work2\ConsoleApp1\work3\obj\Debug\netcoreapp3.0\work3.dll
 E:\C#work\work2\ConsoleApp1\work3\obj\Debug\netcoreapp3.0\work3.pdb
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\bin\Debug\netcoreapp3.0\work3.exe
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\bin\Debug\netcoreapp3.0\work3.deps.json
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\bin\Debug\netcoreapp3.0\work3.runtimeconfig.json
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\bin\Debug\netcoreapp3.0\work3.runtimeconfig.dev.json
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\bin\Debug\netcoreapp3.0\work3.dll
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\bin\Debug\netcoreapp3.0\work3.pdb
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\obj\Debug\netcoreapp3.0\work3.csprojAssemblyReference.cache
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\obj\Debug\netcoreapp3.0\work3.AssemblyInfoInputs.cache
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\obj\Debug\netcoreapp3.0\work3.AssemblyInfo.cs
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\obj\Debug\netcoreapp3.0\work3.dll
+E:\Git\learngit\CSharpHomeWork\Homework2\ConsoleApp1\work3\obj\Debug\netcoreapp3.0\work3.pdb
