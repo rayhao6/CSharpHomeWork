@@ -1,0 +1,11 @@
+E:\C#work\work2\ConsoleApp1\work1\obj\Debug\netcoreapp3.0\work1.csprojAssemblyReference.cache
+E:\C#work\work2\ConsoleApp1\work1\obj\Debug\netcoreapp3.0\work1.AssemblyInfoInputs.cache
+E:\C#work\work2\ConsoleApp1\work1\obj\Debug\netcoreapp3.0\work1.AssemblyInfo.cs
+E:\C#work\work2\ConsoleApp1\work1\bin\Debug\netcoreapp3.0\work1.exe
+E:\C#work\work2\ConsoleApp1\work1\bin\Debug\netcoreapp3.0\work1.deps.json
+E:\C#work\work2\ConsoleApp1\work1\bin\Debug\netcoreapp3.0\work1.runtimeconfig.json
+E:\C#work\work2\ConsoleApp1\work1\bin\Debug\netcoreapp3.0\work1.runtimeconfig.dev.json
+E:\C#work\work2\ConsoleApp1\work1\bin\Debug\netcoreapp3.0\work1.dll
+E:\C#work\work2\ConsoleApp1\work1\bin\Debug\netcoreapp3.0\work1.pdb
+E:\C#work\work2\ConsoleApp1\work1\obj\Debug\netcoreapp3.0\work1.dll
+E:\C#work\work2\ConsoleApp1\work1\obj\Debug\netcoreapp3.0\work1.pdb

@@ -1,0 +1,11 @@
+E:\C#work\work2\ConsoleApp1\calculator\bin\Debug\netcoreapp3.0\calculator.exe
+E:\C#work\work2\ConsoleApp1\calculator\bin\Debug\netcoreapp3.0\calculator.deps.json
+E:\C#work\work2\ConsoleApp1\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.json
+E:\C#work\work2\ConsoleApp1\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.dev.json
+E:\C#work\work2\ConsoleApp1\calculator\bin\Debug\netcoreapp3.0\calculator.dll
+E:\C#work\work2\ConsoleApp1\calculator\bin\Debug\netcoreapp3.0\calculator.pdb
+E:\C#work\work2\ConsoleApp1\calculator\obj\Debug\netcoreapp3.0\calculator.csprojAssemblyReference.cache
+E:\C#work\work2\ConsoleApp1\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfoInputs.cache
+E:\C#work\work2\ConsoleApp1\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfo.cs
+E:\C#work\work2\ConsoleApp1\calculator\obj\Debug\netcoreapp3.0\calculator.dll
+E:\C#work\work2\ConsoleApp1\calculator\obj\Debug\netcoreapp3.0\calculator.pdb
