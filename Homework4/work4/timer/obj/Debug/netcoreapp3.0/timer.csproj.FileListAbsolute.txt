@@ -1,0 +1,10 @@
+E:\C#work\work4\work4\timer\obj\Debug\netcoreapp3.0\timer.AssemblyInfoInputs.cache
+E:\C#work\work4\work4\timer\obj\Debug\netcoreapp3.0\timer.AssemblyInfo.cs
+E:\C#work\work4\work4\timer\bin\Debug\netcoreapp3.0\timer.exe
+E:\C#work\work4\work4\timer\bin\Debug\netcoreapp3.0\timer.deps.json
+E:\C#work\work4\work4\timer\bin\Debug\netcoreapp3.0\timer.runtimeconfig.json
+E:\C#work\work4\work4\timer\bin\Debug\netcoreapp3.0\timer.runtimeconfig.dev.json
+E:\C#work\work4\work4\timer\bin\Debug\netcoreapp3.0\timer.dll
+E:\C#work\work4\work4\timer\bin\Debug\netcoreapp3.0\timer.pdb
+E:\C#work\work4\work4\timer\obj\Debug\netcoreapp3.0\timer.dll
+E:\C#work\work4\work4\timer\obj\Debug\netcoreapp3.0\timer.pdb

@@ -1,0 +1,11 @@
+E:\C#work\work4\work4\work4\bin\Debug\netcoreapp3.0\work4.exe
+E:\C#work\work4\work4\work4\bin\Debug\netcoreapp3.0\work4.deps.json
+E:\C#work\work4\work4\work4\bin\Debug\netcoreapp3.0\work4.runtimeconfig.json
+E:\C#work\work4\work4\work4\bin\Debug\netcoreapp3.0\work4.runtimeconfig.dev.json
+E:\C#work\work4\work4\work4\bin\Debug\netcoreapp3.0\work4.dll
+E:\C#work\work4\work4\work4\bin\Debug\netcoreapp3.0\work4.pdb
+E:\C#work\work4\work4\work4\obj\Debug\netcoreapp3.0\work4.csprojAssemblyReference.cache
+E:\C#work\work4\work4\work4\obj\Debug\netcoreapp3.0\work4.AssemblyInfoInputs.cache
+E:\C#work\work4\work4\work4\obj\Debug\netcoreapp3.0\work4.AssemblyInfo.cs
+E:\C#work\work4\work4\work4\obj\Debug\netcoreapp3.0\work4.dll
+E:\C#work\work4\work4\work4\obj\Debug\netcoreapp3.0\work4.pdb
