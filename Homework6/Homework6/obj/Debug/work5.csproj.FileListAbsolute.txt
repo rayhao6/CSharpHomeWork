@@ -1,0 +1,6 @@
+E:\Git\learngit\CSharpHomeWork\Homework6\Homework6\obj\Debug\work5.csprojAssemblyReference.cache
+E:\Git\learngit\CSharpHomeWork\Homework6\Homework6\obj\Debug\Homework6.exe
+E:\Git\learngit\CSharpHomeWork\Homework6\Homework6\obj\Debug\Homework6.pdb
+E:\Git\learngit\CSharpHomeWork\Homework6\Homework6\bin\Debug\Homework6.exe.config
+E:\Git\learngit\CSharpHomeWork\Homework6\Homework6\bin\Debug\Homework6.exe
+E:\Git\learngit\CSharpHomeWork\Homework6\Homework6\bin\Debug\Homework6.pdb
