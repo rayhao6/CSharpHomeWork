@@ -1,0 +1,6 @@
+E:\C#work\work8\work5\obj\Debug\work5.csprojAssemblyReference.cache
+E:\C#work\work8\work5\bin\Debug\work5.exe.config
+E:\C#work\work8\work5\bin\Debug\work5.exe
+E:\C#work\work8\work5\bin\Debug\work5.pdb
+E:\C#work\work8\work5\obj\Debug\work5.exe
+E:\C#work\work8\work5\obj\Debug\work5.pdb
