@@ -1,0 +1,9 @@
+E:\C#work\work9\FormCrawler\FormCrawler\obj\Debug\FormCrawler.csprojAssemblyReference.cache
+E:\C#work\work9\FormCrawler\FormCrawler\obj\Debug\FormCrawler.Properties.Resources.resources
+E:\C#work\work9\FormCrawler\FormCrawler\obj\Debug\FormCrawler.csproj.GenerateResource.cache
+E:\C#work\work9\FormCrawler\FormCrawler\bin\Debug\FormCrawler.exe.config
+E:\C#work\work9\FormCrawler\FormCrawler\bin\Debug\FormCrawler.exe
+E:\C#work\work9\FormCrawler\FormCrawler\bin\Debug\FormCrawler.pdb
+E:\C#work\work9\FormCrawler\FormCrawler\obj\Debug\FormCrawler.exe
+E:\C#work\work9\FormCrawler\FormCrawler\obj\Debug\FormCrawler.pdb
+E:\C#work\work9\FormCrawler\FormCrawler\obj\Debug\FormCrawler.FormCrawl.resources
